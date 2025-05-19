@@ -1,6 +1,6 @@
-# zero-to-code 
+# c++ learnings
 
-Welcome to **zero-to-code**, a personal collection of C++ scripts from my earliest programming experiences during coursework, exam practice, and self-study. C++ was the first language I learned, and these scripts demonstrate my foundational understanding of C++ programming including control structures, functions, arrays, and practical problem-solving.
+Welcome to **c++ learnings**, a personal collection of C++ scripts from my earliest programming experiences during coursework, exam practice, and self-study. C++ was the first language I learned, and these scripts demonstrate my foundational understanding of C++ programming including control structures, functions, arrays, and practical problem-solving.
 
 ## Contents
 
